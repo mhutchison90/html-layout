@@ -1,6 +1,6 @@
 <img src="https://devmounta.in/img/logowhiteblue.png" width="250" align="right">
 
-#My First Commit Story
+# My First Commit Story
 Once upon a time there was a developer. They wanted to tlearn how to use github. So they wrote a story about how to code. And then share it with github.
 
 git config --user.email "michaelhutchison90@gmail.com"
